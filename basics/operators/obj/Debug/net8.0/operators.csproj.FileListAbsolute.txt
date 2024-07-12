@@ -1,0 +1,15 @@
+D:\backend\ASP.NET core\basics\operators\bin\Debug\net8.0\operators.exe
+D:\backend\ASP.NET core\basics\operators\bin\Debug\net8.0\operators.deps.json
+D:\backend\ASP.NET core\basics\operators\bin\Debug\net8.0\operators.runtimeconfig.json
+D:\backend\ASP.NET core\basics\operators\bin\Debug\net8.0\operators.dll
+D:\backend\ASP.NET core\basics\operators\bin\Debug\net8.0\operators.pdb
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\operators.AssemblyInfoInputs.cache
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\operators.AssemblyInfo.cs
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\operators.csproj.CoreCompileInputs.cache
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\operators.sourcelink.json
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\operators.dll
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\refint\operators.dll
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\operators.pdb
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\operators.genruntimeconfig.cache
+D:\backend\ASP.NET core\basics\operators\obj\Debug\net8.0\ref\operators.dll
