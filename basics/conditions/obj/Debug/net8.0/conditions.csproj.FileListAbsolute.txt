@@ -1,0 +1,15 @@
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\conditions.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\conditions.AssemblyInfoInputs.cache
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\conditions.AssemblyInfo.cs
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\conditions.csproj.CoreCompileInputs.cache
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\conditions.sourcelink.json
+D:\backend\ASP.NET core\basics\conditions\bin\Debug\net8.0\conditions.exe
+D:\backend\ASP.NET core\basics\conditions\bin\Debug\net8.0\conditions.deps.json
+D:\backend\ASP.NET core\basics\conditions\bin\Debug\net8.0\conditions.runtimeconfig.json
+D:\backend\ASP.NET core\basics\conditions\bin\Debug\net8.0\conditions.dll
+D:\backend\ASP.NET core\basics\conditions\bin\Debug\net8.0\conditions.pdb
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\conditions.dll
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\refint\conditions.dll
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\conditions.pdb
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\conditions.genruntimeconfig.cache
+D:\backend\ASP.NET core\basics\conditions\obj\Debug\net8.0\ref\conditions.dll
