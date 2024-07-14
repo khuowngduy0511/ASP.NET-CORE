@@ -1,0 +1,15 @@
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\Ex_1.AssemblyInfoInputs.cache
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\Ex_1.AssemblyInfo.cs
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\Ex_1.csproj.CoreCompileInputs.cache
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\Ex_1.sourcelink.json
+D:\backend\ASP.NET core\basics\loops\Ex_1\bin\Debug\net8.0\Ex_1.exe
+D:\backend\ASP.NET core\basics\loops\Ex_1\bin\Debug\net8.0\Ex_1.deps.json
+D:\backend\ASP.NET core\basics\loops\Ex_1\bin\Debug\net8.0\Ex_1.runtimeconfig.json
+D:\backend\ASP.NET core\basics\loops\Ex_1\bin\Debug\net8.0\Ex_1.dll
+D:\backend\ASP.NET core\basics\loops\Ex_1\bin\Debug\net8.0\Ex_1.pdb
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\Ex_1.dll
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\refint\Ex_1.dll
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\Ex_1.pdb
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\Ex_1.genruntimeconfig.cache
+D:\backend\ASP.NET core\basics\loops\Ex_1\obj\Debug\net8.0\ref\Ex_1.dll
